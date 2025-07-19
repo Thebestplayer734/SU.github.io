@@ -12,3 +12,8 @@ nav a {
 h1 {
   text-align: center;
 }
+.center-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
